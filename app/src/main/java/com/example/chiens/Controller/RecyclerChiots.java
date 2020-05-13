@@ -35,7 +35,7 @@ import com.example.chiens.R;
 
 public class RecyclerChiots extends AppCompatActivity {
 
-    private final String BASE_URL = "";
+    private final String BASE_URL = "https://raw.githubusercontent.com/FernandesAxel/Chiens/master/app/src/main/java/com/example/chiens/";
 
 
     private RecyclerView recyclerView;
